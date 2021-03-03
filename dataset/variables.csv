@@ -34,7 +34,7 @@ Market Sophistication,mar_cre,Credit Score,"Global Innovation Index, Cornell INS
 Market Sophistication,mar_inv,Investment Score,"Global Innovation Index, Cornell INSEAD WIPO.",
 Market Sophistication,mar_trd,"Trade, competition, and market scale Score","Global Innovation Index, Cornell INSEAD WIPO.",
 Business Sophistication,bus_kwr,Knowledge Workers Score,"Global Innovation Index, Cornell INSEAD WIPO.",
-Business Sophistication,bus_inv,Innovation linkages Score,"Global Innovation Index, Cornell INSEAD WIPO.",
+Business Sophistication,bus_ino,Innovation linkages Score,"Global Innovation Index, Cornell INSEAD WIPO.",
 Business Sophistication,bus_kab,Knowledge absorption Score,"Global Innovation Index, Cornell INSEAD WIPO.",
 Knowledge and Technology,kto_kcr,Knowledge creation Score,"Global Innovation Index, Cornell INSEAD WIPO.",
 Knowledge and Technology,kto_kim,Knowledge impact Score,"Global Innovation Index, Cornell INSEAD WIPO.",
